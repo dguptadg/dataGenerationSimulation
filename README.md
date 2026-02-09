@@ -1,32 +1,37 @@
-# Title: Data Generation using Modelling and Simulation
+# Synthetic Data Generation Through Modeling & Simulation Techniques
 
-# 1. Methodology
+## Approach Overview
 
-Generating random sample for simulation 
-</br>
-Applying models on the generated data 
-</br>
-Graphical display of data and evaluated parameters 
+**Random Sample Generation**  
+Creation of simulated samples for experimental analysis
 
-# 2. Description
+**Model Application**  
+Deployment of various models on synthetically generated datasets
 
-- Simulator: Simpy  
-- Dataset: Generated using simulation
-- No. of Simulation: 1000
-- ML Models: Regression, Decision Tree, Random Forest, SVM, KNN
-- Output: Table
+**Visual Representation**  
+Graphical illustration of data distributions and computed metrics
 
-# 3. Objectives
+## Project Specifications
 
-- Using simulation to generate dataset
-- Applying ML models to compare different models
-- Graphical Display of data and result.
+- **Simulation Framework**: Simpy library  
+- **Data Source**: Synthetically generated via simulation processes
+- **Simulation Runs**: 1000 iterations
+- **Machine Learning Algorithms**: Linear Regression, Decision Tree, Random Forest, Support Vector Machine, K-Nearest Neighbors
+- **Output Format**: Tabular presentation
 
-# 4. Results
+## Research Objectives
 
-## Input Dataset:
-<img width="1489" height="738" alt="image" src="https://github.com/user-attachments/assets/ffe6b418-f749-426f-aac5-f191aa9aef98" />
+- Leverage simulation techniques for synthetic dataset creation
+- Conduct comparative analysis across multiple ML algorithms
+- Provide visual representation of both raw data and analytical outcomes
+
+## Experimental Results
+
+### Generated Dataset:
+<img width="1400" height="600" alt="simulation_dataset_reordered" src="https://github.com/user-attachments/assets/bcb289dc-3dd3-4735-8a54-cf98bafd3bfd" />
+
 
 ---
-## Output Result:
-<img width="1238" height="485" alt="image" src="https://github.com/user-attachments/assets/169891da-a53f-4649-8d29-30813a435506" />
+
+### Performance Metrics:
+<img width="1200" height="400" alt="ml_model_comparison_reordered" src="https://github.com/user-attachments/assets/8e7e9a0d-0b8f-4b35-84bd-d5c8f9fc5a8f" />
